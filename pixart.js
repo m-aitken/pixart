@@ -1,5 +1,5 @@
 var brush = document.querySelector('.brush')
-var currentColor = document.getElementById('color-field').value
+var currentColor = 'green'
 
 controlForm = document.querySelector('form')
 
